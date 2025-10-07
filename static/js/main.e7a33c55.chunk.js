@@ -19002,7 +19002,7 @@
           Wl = (i(16), i.p + "static/media/warning.2f7f711f.svg"),
           Fl = i.p + "static/media/u_turn.38a08a9e.svg",
           Hl = (i(42), i.p + "static/media/no_mobile_1.959d982f.svg"),
-          Ql = i.p + "static/media/anslo_ico.77ddc9f9.svg",
+          Ql = i.p + "static/media/Gabe_ico.77ddc9f9.svg",
           Yl = i.p + "static/media/splash-logo-placeholder-7b.2d60164d.png",
           Ul = i(0);
         const Vl = [
@@ -19060,7 +19060,7 @@
           Xl = [
             {
               title: "1. Project overview (tl;dr for all sections)",
-              link: "https://anslo.medium.com/slow-roads-tl-dr-a664ac6bce40",
+              link: "https://Gabe.medium.com/slow-roads-tl-dr-a664ac6bce40",
             },
             {
               title:
@@ -19221,17 +19221,17 @@
                   children: [
                     Object(Ul.jsx)("div", { id: "splash-version", children: Ui }),
                     Object(Ul.jsxs)("a", {
-                      id: "splash-anslo",
-                      href: "https://twitter.com/anslogen",
+                      id: "splash-Gabe",
+                      href: "https://twitter.com/Gabegen",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: [
                         Object(Ul.jsx)("img", {
                           src: Ql,
-                          id: "splash-anslo-img",
+                          id: "splash-Gabe-img",
                           alt: "",
                         }),
-                        Object(Ul.jsx)("div", { children: "from anslo.dev" }),
+                        Object(Ul.jsx)("div", { children: "from Gabe.dev" }),
                       ],
                     }),
                     Object(Ul.jsx)("div", { id: "splash-logo-placeholder" }),
@@ -19372,8 +19372,8 @@
                                 "My name is ",
                                 Object(Ul.jsx)("a", {
                                   className: "about-link",
-                                  href: "https://anslo.dev",
-                                  children: "anslo",
+                                  href: "https://harryhovdlni.com",
+                                  children: "Gabe",
                                 }),
                                 " and I'm a creative developer exploring in the space between design and computer science. With a background in software engineering and a life-long love of functional art, my projects focus on finding novel applications of digital technology in answering interesting design questions.",
                                 Object(Ul.jsx)("br", {}),
@@ -19470,13 +19470,13 @@
                               "While I have no immediate plans to make the source code public, over the next few weeks I will be writing blog posts diving into each of the main components. If you're curious, please follow me on ",
                               Object(Ul.jsx)("a", {
                                 className: "about-link",
-                                href: "https://twitter.com/anslogen",
+                                href: "https://twitter.com/Gabegen",
                                 children: "Twitter",
                               }),
                               " or ",
                               Object(Ul.jsx)("a", {
                                 className: "about-link",
-                                href: "https://anslo.medium.com/",
+                                href: "https://Gabe.medium.com/",
                                 children: "Medium",
                               }),
                               " to be notified of new posts.",

@@ -550,15 +550,15 @@ body {
     right: 0;
     bottom: 0;
   }
-  #splash-anslo:hover {
+  #splash-Gabe:hover {
     opacity: 1;
     cursor: pointer;
   }
-  #splash-anslo-img {
+  #splash-Gabe-img {
     height: 2.4vh;
     width: 2.4vh;
   }
-  #splash-anslo {
+  #splash-Gabe {
     opacity: 0.5;
     position: absolute;
     font-size: 1.2vh;
